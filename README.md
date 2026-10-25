@@ -1,4 +1,4 @@
-# Generative AI for Artists
+# Sustainable Generative AI for Artists
 
 **An open, critical toolkit for making art with generative AI**: open-source models, local workflows, data with consent, and an honest account of the costs.
 
