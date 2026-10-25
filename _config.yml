@@ -2,8 +2,8 @@ title: Sustainable Generative AI for Artists
 description: An open, critical toolkit for making art with generative AI, built on open-source models, local workflows and accountable data.
 author: Mattia Casalegno
 url: https://aradicalhypothesis.github.io
-baseurl: /generative-ai-for-artists
-repository: ARadicalHypothesis/generative-ai-for-artists
+baseurl: /sustainable-generative-ai-for-artists
+repository: ARadicalHypothesis/sustainable-generative-ai-for-artists
 
 markdown: kramdown
 kramdown:

@@ -12,6 +12,6 @@ Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Suggested credit:
 
-> "Sustainable Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, https://github.com/ARadicalHypothesis/generative-ai-for-artists
+> "Sustainable Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, https://github.com/ARadicalHypothesis/sustainable-generative-ai-for-artists
 
 **Not covered by this licence:** the tools, models, videos, articles and other third-party works linked from these pages. Each keeps its own licence and terms, listed where known on the [Tools](tools.md) page.

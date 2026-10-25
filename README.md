@@ -2,7 +2,7 @@
 
 **An open, critical toolkit for making art with generative AI**: open-source models, local workflows, data with consent, and an honest account of the costs.
 
-**Website:** https://aradicalhypothesis.github.io/generative-ai-for-artists/
+**Website:** https://aradicalhypothesis.github.io/sustainable-generative-ai-for-artists/
 
 Created by [Mattia Casalegno](https://www.mattiacasalegno.net), [Department of Digital Arts and Animation, Pratt Institute](https://www.pratt.edu/art/digital-arts-and-animation/).
 
@@ -39,4 +39,4 @@ An NVIDIA GPU with at least 6–8 GB of VRAM for local image work (more for vide
 
 Text: [CC BY 4.0](LICENSE.md). Linked tools, models and media keep their own licences.
 
-Suggested credit: *"Sustainable Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, github.com/ARadicalHypothesis/generative-ai-for-artists*
+Suggested credit: *"Sustainable Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, github.com/ARadicalHypothesis/sustainable-generative-ai-for-artists*
