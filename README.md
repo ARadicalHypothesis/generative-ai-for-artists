@@ -4,7 +4,7 @@
 
 **Website:** https://aradicalhypothesis.github.io/generative-ai-for-artists/
 
-Created by [Mattia Casalegno](https://www.mattiacasalegno.net).
+Created by [Mattia Casalegno](https://www.mattiacasalegno.net), [Department of Digital Arts and Animation, Pratt Institute](https://www.pratt.edu/art/digital-arts-and-animation/).
 
 **Course history.** Developed from *AI for Artists*, a graduate course Mattia Casalegno has taught in the Department of Digital Arts at Pratt Institute since 2023 (most recently Spring 2026), and from the public Generative AI workshop series he led at Pratt in Fall 2024 (3D form, game design, animation). This open edition, published in October 2026, reorganises that material around open-source, locally run and accountable tools, and adds a critical frame on data, labour and energy.
 
@@ -34,11 +34,6 @@ Created by [Mattia Casalegno](https://www.mattiacasalegno.net).
 ## Requirements
 
 An NVIDIA GPU with at least 6–8 GB of VRAM for local image work (more for video and 3D), or access to a shared machine. Apple Silicon Macs can run many image workflows, more slowly. Everything else is free and open source.
-
-## Related
-
-- [TouchDesigner for Artists](https://github.com/ARadicalHypothesis/touchdesigner-for-artists): an open four-session TouchDesigner course, including hand tracking.
-- [Tangible Feelings: EEG for the Arts](https://aradicalhypothesis.github.io/tangible-feelings/): a traveling workshop on brain–computer interfaces for artists (2011–2013).
 
 ## Licence
 
