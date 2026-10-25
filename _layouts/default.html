@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body class="doc">
+<header class="topbar">
+  <a class="brand" href="{{ '/' | relative_url }}">Generative AI for Artists</a>
+  <nav>
+    <a href="{{ '/modules/00-start-here.html' | relative_url }}">Start here</a>
+    <a href="{{ '/tools.html' | relative_url }}">Tools</a>
+    <a href="{{ '/projects.html' | relative_url }}">Projects</a>
+    <a href="https://github.com/{{ site.repository }}">GitHub</a>
+  </nav>
+</header>
+<main class="prose">
+{% if page.module %}<p class="kicker">Module {{ page.module }}</p>{% endif %}
+{{ content }}
+{% if page.next or page.prev %}
+<nav class="pager">
+  {% if page.prev %}<a href="{{ page.prev | relative_url }}">← {{ page.prev_title }}</a>{% else %}<span></span>{% endif %}
+  {% if page.next %}<a href="{{ page.next | relative_url }}">{{ page.next_title }} →</a>{% endif %}
+</nav>
+{% endif %}
+</main>
+<footer class="foot">
+  <p>Generative AI for Artists, by <a href="https://www.mattiacasalegno.net/">Mattia Casalegno</a>. Text under <a href="{{ '/LICENSE.html' | relative_url }}">CC BY 4.0</a>. <a href="https://github.com/{{ site.repository }}">Source on GitHub</a>.</p>
+</footer>
+</body>
+</html>

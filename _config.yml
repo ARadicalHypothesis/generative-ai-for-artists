@@ -1,0 +1,30 @@
+title: Generative AI for Artists
+description: An open, critical toolkit for making art with generative AI, built on open-source models, local workflows and accountable data.
+author: Mattia Casalegno
+url: https://aradicalhypothesis.github.io
+baseurl: /generative-ai-for-artists
+repository: ARadicalHypothesis/generative-ai-for-artists
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
