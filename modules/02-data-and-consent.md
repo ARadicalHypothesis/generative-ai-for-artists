@@ -46,7 +46,7 @@ Most of the time you will train small models, such as LoRAs (see [module 04](04-
 ### Good sources
 
 - **Your own work:** drawings, photographs, renders, scans, archives of past projects.
-- **Open-access collections:** [The Met Open Access](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), [Smithsonian Open Access](https://www.si.edu/openaccess), [Europeana](https://www.europeana.eu/), [Wikimedia Commons](https://commons.wikimedia.org/) (check each file's licence), and the Austrian National Library's [ONB Labs](https://labs.onb.ac.at/en/).
+- **Open-access collections:** [The Met Open Access](https://www.metmuseum.org/hubs/open-access), [Smithsonian Open Access](https://www.si.edu/openaccess), [Europeana](https://www.europeana.eu/), [Wikimedia Commons](https://commons.wikimedia.org/) (check each file's licence), and the Austrian National Library's [ONB Labs](https://labs.onb.ac.at/en/).
 - **Collaborations:** material contributed by people who agreed to it in writing.
 
 Avoid bulk-scraping websites with browser extensions, even when it's technically easy. Many sites' terms forbid it, and you can't give an account of where the material came from.
