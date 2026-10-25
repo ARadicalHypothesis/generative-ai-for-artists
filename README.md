@@ -39,4 +39,4 @@ An NVIDIA GPU with at least 6–8 GB of VRAM for local image work (more for vide
 
 Text: [CC BY 4.0](LICENSE.md). Linked tools, models and media keep their own licences.
 
-Suggested credit: *"Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, github.com/ARadicalHypothesis/generative-ai-for-artists*
+Suggested credit: *"Sustainable Generative AI for Artists" by Mattia Casalegno, CC BY 4.0, github.com/ARadicalHypothesis/generative-ai-for-artists*
